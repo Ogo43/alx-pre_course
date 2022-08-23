@@ -1,1 +1,1 @@
-My first readme
+My first readme: Preface to coding, how to create new repository on github, how to generate personal access token on github, how to create files and directories, how to add, commit, pull or push files and directories on github  
